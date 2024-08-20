@@ -1,6 +1,7 @@
 # Official TRvACC GitHub
 
-Welcome to official TRvACC Github! We use github for almost all development from programs to webservers to sector files. If you have any questions or need access, please email us at staff@trvacc.net
+Welcome to official TRvACC Github! We use github for almost all development from programs to webservers to sector files. If you have any questions or need access, please open a ticket at [https://support.trvacc.net](https://support.trvacc.net).
+
 
 Thanks!
 
